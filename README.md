@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning advance web development and DSA
 - 💞️ I’m looking for internship opportunities
-- 📫 Gmail:manishkumarkushwaha8795@gmail.com
+- 📫 Gmail:abhishekpratapsingh248@gmail.com
 
 <!---
 Abhishek-PratapSingh/Abhishek-PratapSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
