@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Abhishek-PratapSingh
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning advance web development and DSA
-- 💞️ I’m looking for internship opportunities
+-  Enthusiastic about Web Development & Machine Learning
+
+
+
 - 📫 Gmail:abhishekpratapsingh248@gmail.com
 
 <!---
